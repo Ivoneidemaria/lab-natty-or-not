@@ -1,7 +1,7 @@
 
 # **Projeto: Gerador Automático de Roteiros de Viagem**
 
-Este projeto utiliza ferramentas gratuitas e integrações via **Zapier** para criar roteiros de viagem personalizados de forma rápida e intuitiva. Os usuários preenchem um formulário simples, e o sistema gera automaticamente um roteiro detalhado em PDF, pronto para ser compartilhado.
+Este projeto utiliza ferramentas gratuitas e integrações via **Zapier** para criar roteiros de viagem personalizados de forma rápida e intuitiva. Os usuários preenchem um formulário simples, e o sistema gera automaticamente um roteiro detalhado, pronto para ser compartilhado.
 
 ---
 
@@ -14,7 +14,7 @@ Este projeto utiliza ferramentas gratuitas e integrações via **Zapier** para c
   - **ChatGPT (OpenAI)**: Para gerar o conteúdo do roteiro de viagem.
   - **Google Docs**: Para formatar o roteiro em um documento bonito.
   - **Zapier**: Para automatizar o fluxo entre as ferramentas.
-  - **GoogleGmail** Para enviar os PDFs automaticamente aos usuários.
+  - **GoogleGmail** Para enviar emails automaticamente aos usuários.
 
 ---
 
